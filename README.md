@@ -1,1 +1,2 @@
-# Koch-Snowflake
+## How to code the Koch Snowflake
+
